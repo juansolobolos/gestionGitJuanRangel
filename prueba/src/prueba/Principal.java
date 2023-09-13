@@ -3,8 +3,8 @@ package prueba;
 public class Principal {
 
 	public static void main(String[] args) {
-		int a = 1;
-		int b = 1;
+		int a = 3;
+		int b = 4;
 		if(a + b == 7) {
 			System.out.println("Te has equivocado maquina");
 		}
