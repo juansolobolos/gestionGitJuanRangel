@@ -6,7 +6,7 @@ public class Principal {
 		int a = 3;
 		int b = 4;
 		if(a + b == 7) {
-			System.out.println("Te has equivocado maquina");
+			System.out.println("Sabes contar maquina!!!");
 		}
 		else{
 			System.out.println("HOLA MUNDO");
