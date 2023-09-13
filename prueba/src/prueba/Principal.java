@@ -9,7 +9,7 @@ public class Principal {
 			System.out.println("Te has equivocado maquina");
 		}
 		else{
-			System.out.println("Hello world");
+			System.out.println("HOLA MUNDO");
 		}
 	}
 
